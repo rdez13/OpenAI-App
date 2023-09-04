@@ -84,7 +84,7 @@ const handleSubmit = async (e) => {
 
   //fetch data from server
 
-  const response = await fetch('http://localhost:3000', {
+  const response = await fetch('http://localhost:5000', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'

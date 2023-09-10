@@ -4,8 +4,6 @@ https://github.com/rdez13/OpenAI-App/assets/140968532/835cc3f2-c064-493c-afb6-18
 # Description:
 This locally hosted application leverages the power of the OpenAI API (version 4.4) to streamline your coding experience. Whether you're a seasoned developer seeking explanations, code conversions, or fresh project ideas, this chatbot has you covered.
 
-# Key Features:
-Coding Challenges: Seamlessly generate coding challenges and projects using natural language prompts.
 
 # Example Prompts:
 

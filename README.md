@@ -1,4 +1,4 @@
-# OpenAI-App
+# YourAI - OpenAI Chatbot
 https://github.com/rdez13/OpenAI-App/assets/140968532/835cc3f2-c064-493c-afb6-18dc87721985
 
 # Description:
